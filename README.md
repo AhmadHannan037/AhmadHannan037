@@ -4,8 +4,6 @@
 
 6+ years building and scaling high-traffic SaaS platforms. Currently leading a 20+ engineer organization at [Programmers Force](https://www.programmersforce.com) on a globally distributed KYC/KYB/AML compliance platform processing millions of verifications daily across US, EU, and APAC.
 
-Based in Lahore · Open to global remote (Contractor / EOR / Permanent) · US/EU timezone overlap.
-
 ---
 
 #### Open source
@@ -16,10 +14,6 @@ Active contributor to the Vue.js ecosystem.
 
 - [#2850](https://github.com/vuejs/test-utils/pull/2850) &nbsp;·&nbsp; **merged** &nbsp;·&nbsp; `fix(createDomEvent): correct event.code value for KeyboardEvent` — spec-compliant `event.code` strings for `trigger('keydown.*')` modifiers.
 - [#2847](https://github.com/vuejs/test-utils/pull/2847) &nbsp;·&nbsp; in review &nbsp;·&nbsp; `fix(isVisible): treat <summary> in closed <details> as visible`.
-
-**[vueuse/vueuse](https://github.com/vueuse/vueuse)** — composition utilities for Vue.
-
-- `feat(useStorageAsync): support initOnMounted option` — in flight, addresses [#4488](https://github.com/vueuse/vueuse/issues/4488).
 
 [All commits in vuejs/test-utils →](https://github.com/vuejs/test-utils/commits?author=AhmadHannan037)
 
