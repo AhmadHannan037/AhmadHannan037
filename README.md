@@ -13,7 +13,6 @@ Active contributor to the Vue.js ecosystem.
 **[vuejs/test-utils](https://github.com/vuejs/test-utils)** — official testing library for Vue 3.
 
 - [#2850](https://github.com/vuejs/test-utils/pull/2850) &nbsp;·&nbsp; **merged** &nbsp;·&nbsp; `fix(createDomEvent): correct event.code value for KeyboardEvent` — spec-compliant `event.code` strings for `trigger('keydown.*')` modifiers.
-- [#2847](https://github.com/vuejs/test-utils/pull/2847) &nbsp;·&nbsp; in review &nbsp;·&nbsp; `fix(isVisible): treat <summary> in closed <details> as visible`.
 
 [All commits in vuejs/test-utils →](https://github.com/vuejs/test-utils/commits?author=AhmadHannan037)
 
