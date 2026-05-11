@@ -2,7 +2,7 @@
 
 **Lead Product Engineer / Frontend Architect** — Vue.js · React · TypeScript · AI-augmented SaaS delivery
 
-6+ years building and scaling high-traffic SaaS platforms. Currently leading a 20+ engineer organization at [Programmers Force](https://www.programmersforce.com) on a globally distributed KYC/KYB/AML compliance platform processing millions of verifications daily across US, EU, and APAC.
+6+ years building and scaling high-traffic SaaS platforms. Currently leading a 20+ engineering team at [Programmers Force](https://www.programmersforce.com) on a globally distributed KYC/KYB/AML compliance platform processing millions of verifications daily across US, EU, and APAC.
 
 ---
 
